@@ -1,0 +1,6 @@
+.env
+node_modules
+barcodes.json
+/etc
+/etc/secret
+serviceAccountKey.json
